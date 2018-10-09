@@ -1,0 +1,2 @@
+# openshift
+Openshift sample application
